@@ -1,0 +1,81 @@
+body {
+  background-color: #fcfcfc;
+}
+
+.links img{
+  width: 50px;
+  height: 50px;
+  margin-left: 5px;
+  float: right;
+}
+
+.links {
+  margin-right: 50px;
+  padding-bottom: 5px;
+}
+
+.logo img{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-left: 100px;
+}
+
+.logo {
+  font-family: 'Spirax', cursive;
+  font-size: 44px;
+  color: #333;
+  padding-right: 250px;
+}
+.logo:hover, .logo:focus {
+  color: #4b186b;
+  text-decoration: none;
+}
+
+.buy {
+  font-style: italic;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #1c8d35;
+  border-radius: 15px;
+  background-color: #fbfab6;
+}
+
+.buy:hover, .buy:focus {
+  color: #4b186b;
+  text-decoration: none;
+}
+
+header {
+  margin-top: 5px;
+  border-bottom: 1px dashed #d3a268;
+}
+
+.photo-sqr {
+  width: auto;
+  height: 370px;
+  padding-left: 100px;
+}
+
+.shorty {
+  font-size: 18px;
+  padding-top: 50px;
+  text-align: justify;
+}
+
+.old-price {
+  font-size: 20px;
+}
+
+.old-price del{
+  color: #FC747D;
+}
+
+.new-price {
+  font-size: 22px;
+  background-color: rgba(116, 252, 161, 0.5);
+}
+
+.description {
+  font-size: 16px;
+}
